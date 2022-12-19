@@ -1,9 +1,9 @@
-#Strogonoff de Carne
+# Strogonoff de Carne
 
 **Negrito**
 _italico_
 
-###Ingredientes
+### Ingredientes
  - 1kg de patinho
  - 3 colheres de sopa de oleo
  - 2 latas de creme de leite sem soro
@@ -13,8 +13,8 @@ _italico_
  - Champignon a gosto
  - Batata palha e arroz para acompanhamento
 
-###Modo de preparo
+### Modo de preparo
 
  - blabalbalbalbalbalbal
-blabalblablal
-balblalbalba
+ - blabalblablal
+ - balblalbalba
